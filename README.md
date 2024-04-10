@@ -1,7 +1,10 @@
 # <h1>online_fire-report-management</h1>
-<h3>@creater eavas</h3>
+The "Online Fire Reporting" project using Django streamlines the process of reporting fire incidents online. It enables users to submit detailed reports, incorporates geolocation services for accurate incident mapping, and ensures user authentication for credibility.
 
-<p>ussing</p>
+![Screenshot 2024-04-08 173253](https://github.com/surajbhan93/online_fire-report-management/assets/114743961/9355b619-392e-4fc8-9d2b-6820a300d63d)
+
+
+<p>Ussing Technology</p>
 <ul class="item1"> 
     <h1>frontend</h1> 
     <li>HTML </li> 
@@ -29,5 +32,8 @@
 
 <h1><i>Many other Function</i></h1>
 
+<h1>Follow Us:</h1>
+<a href="[https://www.linkedin.com/your-profile](https://www.linkedin.com/in/surajbhan93/)" target="_blank">LinkedIn</a><br>
+<a href="[https://www.instagram.com/your-profil](https://www.instagram.com/easyalgo1.0/?next=%2F)" target="_blank">Instagram</a>
 
 
