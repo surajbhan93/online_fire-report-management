@@ -32,8 +32,9 @@ The "Online Fire Reporting" project using Django streamlines the process of repo
 
 <h1><i>Many other Function</i></h1>
 
-<h1>Follow Us:</h1>
-<a href="[https://www.linkedin.com/your-profile](https://www.linkedin.com/in/surajbhan93/)" target="_blank">LinkedIn</a><br>
-<a href="[https://www.instagram.com/your-profil](https://www.instagram.com/easyalgo1.0/?next=%2F)" target="_blank">Instagram</a>
+<h1>Follow Us and Contact:</h1>
+<a href="[https://www.linkedin.com/in/surajbhan93/]" target="_blank">LinkedIn</a><br>
+<a href="[https://www.instagram.com/easyalgo1.0/]" target="_blank">Instagram</a>
+<a href="[[https://easyalgo.org/]" target="_blank">My Website</a>
 
 
